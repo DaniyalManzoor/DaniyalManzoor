@@ -10,7 +10,7 @@
 
 <h3>My stats:</h3>
 
-[![DaniyalManzoor's github stats](https://github-readme-stats.vercel.app/api?username=DaniyalManzoor&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/DaniyalManzoor/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalManzoor&layout=compact)](https://github.com/DaniyalManzoor/github-readme-stats)
+[![Daniyal Manzoor github stats](https://github-readme-stats.vercel.app/api?username=DaniyalManzoor&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/DaniyalManzoor/github-readme-stats) [![Top Most Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalManzoor&layout=compact)](https://github.com/DaniyalManzoor/github-readme-stats)
 
 <h3>Where to find me:</h3>
 
