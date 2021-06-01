@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/DaniyalManzoor/DaniyalManzoor/master/banner.png" alt="Banner about Arturs Smirnovs">
 
 <h2>Welcome to my Profile <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25" /></h2>
-<p align="center">Currently an  IT Faculty at Aptech site Center and recently completed my graduation in Computer Science from QUEST. Interested in <b>MERN Stack developmnent</b>, and an open source enthusiast.</p>
+<p align="center">Currently working as a  Associate Software Engineer at Speridian Technologies Karachi. Interested in <b>MERN Stack developmnent</b>, and an open source enthusiast.</p>
 
 <h3>Languages I am currently playing around with:</h3>
 
