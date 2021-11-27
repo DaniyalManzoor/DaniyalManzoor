@@ -8,9 +8,15 @@
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="30"> <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript" height="30"> <img alt="React.js" src="https://img.shields.io/badge/-React.js%20-%2361DBFB.svg?style=for-the-badge&logo=React&logoColor=black" height="30"> <img alt="Express.js" src="https://img.shields.io/badge/-Express.js%20-%23EFD81C.svg?style=for-the-badge&logo=Express&logoColor=black" height="30"> <img alt="Node.js" src="https://img.shields.io/badge/-Node-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white" height="30"> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-402F20?style=for-the-badge&logo=MongoDB&logoColor=brightgreen" height="30"> <img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="30"> <img alt="Python" src="https://img.shields.io/badge/-Python-EFD81C?style=for-the-badge&logo=Python&logoColor=black" height="30"> <img alt="Django" src="https://img.shields.io/badge/-Django-0E3C2D?style=for-the-badge&logo=Django&logoColor=white" height="30"> <img alt="MYSQL" src="https://img.shields.io/badge/-MySql-004C5F?style=for-the-badge&logo=mysql&logoColor=white" height="30">
 
-<h3>My stats:</h3>
+## Github Status 🏆
 
-[![Daniyal Manzoor github stats](https://github-readme-stats.vercel.app/api?username=DaniyalManzoor&show_icons=true&count_private=true&theme=highcontrast)](https://github.com/DaniyalManzoor/) [![Top Most Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalManzoor&layout=compact)](https://github.com/DaniyalManzoor/)
+<img  src="https://github-readme-stats.vercel.app/api?username=DaniyalManzoor&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=DaniyalManzoor&theme=react" width="48%" >
+<br>
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=DaniyalManzoor&theme=react-dark)
+<br>
+
 
 <h3>Where to find me:</h3>
 
