@@ -25,3 +25,20 @@
 
 [![GitHub: Daniyal Manzoor](https://img.shields.io/github/followers/DaniyalManzoor?label=follow&style=social)](https://github.com/DaniyalManzoor)
 [![Gmail: Daniyal Manzoor](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)](mailto:daniyalmanzoor28@gmail.com)
+
+<p align="center">Wanna Know me More?</p>
+
+<p align="center">
+
+<a href="https://twitter.com/daniyalmanzoo28">
+<img src="https://img.shields.io/badge/-twitter-20232a?&logo=twitter&logoColor=20232a&labelColor=58a6ff" alt="Twitter" /></a> 
+ 
+<a href="https://www.facebook.com/dani075">
+<img src="https://img.shields.io/badge/-facebook-20232a?&logo=facebook&logoColor=20232a&labelColor=58a6ff" alt="Facebook" /></a> 
+
+<a href="https://www.linkedin.com/in/daniyalmanzoor/">
+<img src="https://img.shields.io/badge/-linkedin-20232a?&logo=linkedin&logoColor=20232a&labelColor=58a6ff" alt="LinkedIn"/></a>
+
+</p>
+
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=DaniyalManzoor.DaniyalManzoor" alt="DaniyalManzoor :: Visitor's Count" /></p>
