@@ -15,17 +15,6 @@
 <br>
 
 
-<h3>Where to find me:</h3>
-
-<a href="https://www.facebook.com/dani075" target="_blank"><img src="https://raw.githubusercontent.com/DaniyalManzoor/DaniyalManzoor/master/fb.png" alt="Facebook" width="30"></a>
-<a href="https://twitter.com/daniyalmanzoo28" target="_blank"><img src="https://raw.githubusercontent.com/DaniyalManzoor/DaniyalManzoor/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.linkedin.com/in/daniyalmanzoor/" target="_blank"><img src="https://raw.githubusercontent.com/DaniyalManzoor/DaniyalManzoor/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/DaniyalManzoor" target="_blank"><img src="https://raw.githubusercontent.com/DaniyalManzoor/DaniyalManzoor/master/git.png" alt="GitHub" width="30"></a>
-<a href="https://github.com/DaniyalManzoor" target="_blank"><img src="https://raw.githubusercontent.com/DaniyalManzoor/DaniyalManzoor/master/www.png" alt="Website" width="30"></a>
-
-[![GitHub: Daniyal Manzoor](https://img.shields.io/github/followers/DaniyalManzoor?label=follow&style=social)](https://github.com/DaniyalManzoor)
-[![Gmail: Daniyal Manzoor](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)](mailto:daniyalmanzoor28@gmail.com)
-
 <p align="center">Wanna Know me More?</p>
 
 <p align="center">
@@ -42,3 +31,6 @@
 </p>
 
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=DaniyalManzoor.DaniyalManzoor" alt="DaniyalManzoor :: Visitor's Count" /></p>
+
+[![GitHub: Daniyal Manzoor](https://img.shields.io/github/followers/DaniyalManzoor?label=follow&style=social)](https://github.com/DaniyalManzoor)
+[![Gmail: Daniyal Manzoor](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)](mailto:daniyalmanzoor28@gmail.com)
