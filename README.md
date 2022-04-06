@@ -28,6 +28,9 @@
 <a href="https://www.linkedin.com/in/daniyalmanzoor/">
 <img src="https://img.shields.io/badge/-linkedin-20232a?&logo=linkedin&logoColor=20232a&labelColor=58a6ff" alt="LinkedIn"/></a>
 
+<a href="https://t.me/dani075">
+<img src="https://img.shields.io/badge/-telegram-20232a?&logo=telegram&logoColor=20232a&labelColor=58a6ff" alt="Telegram"/></a>
+ 
 </p>
 
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=DaniyalManzoor.DaniyalManzoor" alt="DaniyalManzoor :: Visitor's Count" /></p>
