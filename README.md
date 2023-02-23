@@ -8,7 +8,7 @@
 - - :octocat: Github  => :link:	https://github.com/DaniyalManzoor
 - - 🟣: LinkedIn:     => :link:	https://www.linkedin.com/in/daniyalmanzoor/
 - - 🔵: Twitter:      => :link:	https://twitter.com/0xDaniyal28
-- - 🔶: Telegram:     => :link:	https://t.me/dani075
+- - 🔶: Telegram:     => :link:	https://t.me/dani0x
 - - 🔵: Facebook:       => :link:	https://www.facebook.com/dani075
 - - ⬜: Discord       => :link:	https://discordapp.com/users/daniyalmanzoor#1791
 
