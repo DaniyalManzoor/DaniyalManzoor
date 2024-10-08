@@ -62,9 +62,7 @@ Welcome to my GitHub profile! I'm Daniyal Manzoor, a dedicated and passionate de
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DaniyalManzoor.DaniyalManzoor" alt="Visitors Badge">
   &nbsp;&nbsp;
-  [![GitHub Followers](https://img.shields.io/github/followers/DaniyalManzoor?label=Follow%20Me&style=social)](https://github.com/DaniyalManzoor)
-  &nbsp;&nbsp;
-  [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)](mailto:daniyalmanzoor28@gmail.com)
+  <img src="https://img.shields.io/github/followers/DaniyalManzoor?label=FollowMe&style=social" alt="Follower Badge">
 </p>
 
 ---
