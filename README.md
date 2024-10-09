@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm Daniyal Manzoor, a dedicated and passionate de
 
 - **Libraries:** Web3.js, Ethers.js, Viem, WAGMI, Web3React.
 - **Blockchain:** EVM-based integration, Smart Contract Interaction.
-- **Other Tools:** IPFS storage, Wallets Integration (Metamask, WalletConnect).
+- **Other Tools:** IPFS storage, Wallets Integration (Metamask, WalletConnect and much more).
 
 ### Databases
 
