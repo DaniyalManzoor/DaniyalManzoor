@@ -54,16 +54,8 @@ Welcome to my GitHub profile! I'm Daniyal Manzoor, a dedicated and passionate de
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaniyalManzoor&count_private=true&show_icons=true&hide_border=true&theme=react" alt="GitHub Stats" width="48%">&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniyalManzoor&theme=react" alt="GitHub Streak Stats" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DaniyalManzoor.DaniyalManzoor" alt="Visitors Badge">
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/DaniyalManzoor?label=FollowMe&style=social" alt="Follower Badge">
-</p>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniyalmanzoor&theme=github_dark&show_icons=true&count_private=true&hide=stars) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniyalmanzoor&theme=github_dark&exclude=github_dark) |
+|---|---|
 
 ---
 
