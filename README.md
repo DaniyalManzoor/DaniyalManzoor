@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Daniyal Manzoor, a dedicated and passionate de
 
 ### Front-End Development
 
-- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React.js, Next.js (SSR/SSG), Vue.js, Framer Motion.
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, Rust, React.js, Next.js (SSR/SSG), Vue.js, Framer Motion.
 - **UI Libraries:** Material UI, Tailwind CSS, Chakra UI, Radix UI, Bootstrap, Styled Components.
 
 ### Back-End Development
