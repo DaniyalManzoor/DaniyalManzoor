@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Daniyal Manzoor, a dedicated and passionate de
 
 ### Front-End Development
 
-- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, Rust, React.js, Next.js (SSR/SSG), Vue.js, Framer Motion.
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, Rust, AssemblyScript, BashScript, React.js, Next.js (SSR/SSG), Vue.js, Framer Motion.
 - **UI Libraries:** Material UI, Tailwind CSS, Chakra UI, Radix UI, Bootstrap, Styled Components.
 
 ### Back-End Development
@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm Daniyal Manzoor, a dedicated and passionate de
 
 - **Libraries:** Web3.js, Ethers.js, Viem, WAGMI, Web3React.
 - **Blockchain:** EVM-based integration, Smart Contract Interaction.
-- **Other Tools:** IPFS storage, Wallets Integration (Metamask, WalletConnect and much more).
+- **Other Tools:** IPFS storage, Tenderly, Subgraph, Wallets Integration (Metamask, WalletConnect and much more).
 
 ### Databases
 
