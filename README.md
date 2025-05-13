@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Daniyal Manzoor, a dedicated and passionate de
 
 ## 🧑‍💻 About Me
 
-- 🎯 **Full Stack Web Developer** with over **4+ years of experience** in building dynamic web applications and Dapps.
+- 🎯 **Full Stack Web Developer** with over **5+ years of experience** in building dynamic web applications and Dapps.
 - 💼 Specialize in **MERN Stack**, **Web3 Development**, and **EVM Blockchain Projects**.
 - 🚀 Skilled in creating scalable backend systems, dynamic frontend UI, and smart contract integration.
 - 🌱 Currently diving deeper into advanced Web3 technologies and **Subgraph Development**.
