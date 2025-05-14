@@ -46,7 +46,8 @@ Welcome to my GitHub profile! I'm Daniyal Manzoor, a dedicated and passionate de
 - **AWS:** EC2, S3, Route 53, VPC, IAM, CloudWatch... still exploring more.
 - **Version Control:** Git (GitHub, Bitbucket).
 - **CI/CD:** GitHub Actions, CircleCI.
-- **Deployment Platforms:** Vercel, Netlify, Firebase, Heroku.
+- **Deployment:** Platforms:** Vercel, Netlify, Firebase, Heroku.
+- **OS:** Linux, macOS, Windows
 
 ### Graphic & Design Tools
 
