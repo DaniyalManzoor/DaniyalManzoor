@@ -69,7 +69,6 @@ Welcome to my GitHub profile! I'm Daniyal Manzoor, a dedicated and passionate de
 - **Twitter:** [@0xDaniyal28](https://twitter.com/0xDaniyal28)
 - **Telegram:** [@dani0x](https://t.me/dani0x)
 - **Discord:** [daniyalmanzoor#1791](https://discordapp.com/users/daniyalmanzoor#1791)
-- **Facebook:** [Daniyal Manzoor](https://www.facebook.com/dani075)
 
 ---
 
